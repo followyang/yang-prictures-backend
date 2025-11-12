@@ -1,7 +1,8 @@
 package com.yang.yangpicturesbackend.mapper;
 
-import com.yang.picturesbackend.model.entity.Space;
+
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.yang.yangpicturesbackend.model.entity.Space;
 
 /**
 * @author liuya

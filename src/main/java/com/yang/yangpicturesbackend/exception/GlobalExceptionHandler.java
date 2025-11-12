@@ -1,7 +1,7 @@
 package com.yang.yangpicturesbackend.exception;
 
-import com.yang.picturesbackend.common.BaseResponse;
-import com.yang.picturesbackend.common.ResultUtils;
+import com.yang.yangpicturesbackend.common.BaseResponse;
+import com.yang.yangpicturesbackend.common.ResultUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
